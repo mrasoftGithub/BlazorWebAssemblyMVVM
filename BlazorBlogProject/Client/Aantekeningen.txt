@@ -1,0 +1,13 @@
+﻿
+DBCC CHECKIDENT('[EIGENAAR]', RESEED,3);
+------------
+
+DBCC CHECKIDENT('[EIGENAAR]', RESEED,3);
+
+--------------
+
+http://localhost:12345/api/ServiceDb/GetTotaalAantalEigenaren/
+http://localhost:12345/api/ServiceDb/GetLijstEigenaren
+http://localhost:12345/api/ServiceDb/VoegToe
+
+-------------------------------------
